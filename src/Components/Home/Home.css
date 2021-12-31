@@ -1,0 +1,21 @@
+.first-postion{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+.first-left h2{
+    margin-bottom: 30px;
+    font-size: 40px;
+    color: rgb(0, 168, 146);
+}
+.first-left p{
+    line-height: 30px;
+    color: rgb(114, 114, 114);
+    font-size: 18px;
+}
+.first-right img{
+    width: 550px;
+    margin-left: 100px;
+}
+

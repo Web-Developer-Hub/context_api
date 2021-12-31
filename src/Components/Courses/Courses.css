@@ -1,0 +1,24 @@
+.container{
+    color: rgb(94, 94, 94);
+}
+.position{
+    background-color: rgb(255, 171, 61);
+    width: 120px;
+    padding: 3px;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+.cards{
+    max-width: 1400px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main{
+    margin-top: 110px;
+}

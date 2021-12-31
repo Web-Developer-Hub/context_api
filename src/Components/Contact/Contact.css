@@ -1,0 +1,14 @@
+.contact_from{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+    padding: 20px;
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 50px;
+    border: 1px solid rgb(233, 233, 233);
+    box-shadow: 3px 3px 20px 3px rgb(235, 235, 235);
+}
+.form, .address{
+    padding: 20px;
+    font-size: 18px;
+}
